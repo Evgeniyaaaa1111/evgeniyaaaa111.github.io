@@ -1,0 +1,138 @@
+ 
+body{
+    background: linear-gradient(139deg, #4d2e0a 14%, #ffffff 100%);
+}
+  
+
+
+
+ .navbar-expand-lg {
+background-color: rgb(36, 32, 32);
+}
+
+
+
+
+
+.nav-link {
+    color: rgb(179, 113, 16);
+}
+.navbar-nav .nav-link.active {
+    color: rgb(160, 143, 120);
+
+}
+
+.navbar-brand img {
+width: 50px;
+}
+
+.navbar-toggler{
+    background-color: rgba(163, 117, 57, 0.795);
+}
+
+.sidebar{
+    font-weight: lighter;
+    font-style: oblique;
+    color: #5e431e;
+
+}
+.item{
+    font-weight: lighter;
+    font-style: oblique;
+}
+
+.card{
+ background: linear-gradient(139deg, #4d2e0a 14%, #ffffff 100%); 
+}
+.w2{
+    color: #c0aa8c;
+    font-weight: lighter;
+    font-style: oblique;
+}
+.ap1 img{
+    width: 30px;
+}
+
+.btn-primary {
+    background-color: #c0aa8c;
+    border-color: #c0aa8c;
+    
+    
+}
+
+.card a{
+    text-decoration: none;
+    color: #5e431e;
+
+}
+
+.nav-item-ikl{
+color: #c0aa8c;
+padding-left: 930px;
+padding-top: 5px;
+}
+
+.nav-item-po{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+.impot img{
+ width: 100%;
+max-height: 592px; 
+
+}
+
+.impot{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 25px;
+}
+
+.nav a {
+text-decoration: none;
+color: #4d2e0a;
+font-size: 20px;
+font-weight: bold;
+    font-style: oblique;
+
+}
+
+
+
+.odl img{ 
+background: #ffffff url(/img/856e39270b6ab3e7f94e0ba4e11886cf.jpg) center center/cover no-repeat;
+
+width: 100%;
+max-height: 600px; 
+padding-left: 0px;
+padding-right:  0px;
+
+}
+
+.row-ool{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
